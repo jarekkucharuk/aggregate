@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-esb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-ezd-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-jasper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-jasper-mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowienia-www" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zamowieniaApi" vcs="Git" />
+  </component>
+</project>

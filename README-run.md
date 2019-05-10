@@ -1,11 +1,13 @@
 # Uruchomienie wszystkich modułów eZamówienia, tzn:
 
+```
 -zamowienia-esb,
 -zamowienia-jasper,
 -zamowienia-jasper-mvc,
 -zamowienia-storage,
 -zamowienia-www,
 -zamowienia-api
+```
 
 ## Ustawienie konfiguracji ze zmiennych środowiskowych
 
@@ -18,7 +20,13 @@
 ```
 
 ```
+INTEGRATION.sh
+```
+
+```
 > mvn clean install 
+```
+
 ```
 > execute.bat
 ```
