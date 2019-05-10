@@ -1,11 +1,13 @@
 # Uruchomienie wszystkich modułów eZamówienia, tzn:
 
+```
 -zamowienia-esb,
 -zamowienia-jasper,
 -zamowienia-jasper-mvc,
 -zamowienia-storage,
 -zamowienia-www,
 -zamowienia-api
+```
 
 ## Ustawienie konfiguracji ze zmiennych środowiskowych
 
@@ -15,6 +17,10 @@
 
 > source DOCKER-ENV.sh
 * w wersji Windows (uruchomienie pliku: DOCKER-ENV-windows.bat)
+```
+
+```
+integration.sh
 ```
 
 ```
